@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/344/trunk/src/javapns/feedback
+END
+FeedbackServiceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/344/trunk/src/javapns/feedback/FeedbackServiceManager.java
+END
+AppleFeedbackServerBasicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/340/trunk/src/javapns/feedback/AppleFeedbackServerBasicImpl.java
+END
+AppleFeedbackServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/247/trunk/src/javapns/feedback/AppleFeedbackServer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/247/trunk/src/javapns/feedback/package.html
+END
+ConnectionToFeedbackServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/305/trunk/src/javapns/feedback/ConnectionToFeedbackServer.java
+END

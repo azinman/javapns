@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/363/trunk/src/javapns/notification/transmission
+END
+NotificationThreads.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/363/trunk/src/javapns/notification/transmission/NotificationThreads.java
+END
+NotificationProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/302/trunk/src/javapns/notification/transmission/NotificationProgressListener.java
+END
+PushQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/363/trunk/src/javapns/notification/transmission/PushQueue.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/247/trunk/src/javapns/notification/transmission/package.html
+END
+NotificationThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/363/trunk/src/javapns/notification/transmission/NotificationThread.java
+END

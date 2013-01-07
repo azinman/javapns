@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/369/trunk/src/javapns/notification
+END
+PushedNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/307/trunk/src/javapns/notification/PushedNotification.java
+END
+AppleNotificationServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/247/trunk/src/javapns/notification/AppleNotificationServer.java
+END
+PushNotificationPayload.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/369/trunk/src/javapns/notification/PushNotificationPayload.java
+END
+ConnectionToNotificationServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/src/javapns/notification/ConnectionToNotificationServer.java
+END
+PayloadPerDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/302/trunk/src/javapns/notification/PayloadPerDevice.java
+END
+PushNotificationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/349/trunk/src/javapns/notification/PushNotificationManager.java
+END
+PushedNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/349/trunk/src/javapns/notification/PushedNotifications.java
+END
+AppleNotificationServerBasicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/340/trunk/src/javapns/notification/AppleNotificationServerBasicImpl.java
+END
+ResponsePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/309/trunk/src/javapns/notification/ResponsePacket.java
+END
+NewsstandNotificationPayload.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/369/trunk/src/javapns/notification/NewsstandNotificationPayload.java
+END
+ResponsePacketReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/362/trunk/src/javapns/notification/ResponsePacketReader.java
+END
+Payload.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/369/trunk/src/javapns/notification/Payload.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/247/trunk/src/javapns/notification/package.html
+END

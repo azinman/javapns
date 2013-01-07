@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/369/trunk/src/javapns/communication/exceptions
+END
+KeystoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/359/trunk/src/javapns/communication/exceptions/KeystoreException.java
+END
+InvalidKeystoreFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/359/trunk/src/javapns/communication/exceptions/InvalidKeystoreFormatException.java
+END
+CommunicationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/359/trunk/src/javapns/communication/exceptions/CommunicationException.java
+END
+InvalidKeystoreReferenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/359/trunk/src/javapns/communication/exceptions/InvalidKeystoreReferenceException.java
+END
+InvalidCertificateChainException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/359/trunk/src/javapns/communication/exceptions/InvalidCertificateChainException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/369/trunk/src/javapns/communication/exceptions/package.html
+END
+InvalidKeystorePasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/359/trunk/src/javapns/communication/exceptions/InvalidKeystorePasswordException.java
+END

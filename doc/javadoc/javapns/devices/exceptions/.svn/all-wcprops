@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/devices/exceptions
+END
+UnknownDeviceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/devices/exceptions/UnknownDeviceException.html
+END
+InvalidDeviceTokenFormatException.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/devices/exceptions/InvalidDeviceTokenFormatException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/devices/exceptions/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/devices/exceptions/package-summary.html
+END
+NullIdException.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/devices/exceptions/NullIdException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/devices/exceptions/package-tree.html
+END
+DuplicateDeviceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/devices/exceptions/DuplicateDeviceException.html
+END
+NullDeviceTokenException.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/devices/exceptions/NullDeviceTokenException.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/369/trunk/src/javapns/devices/exceptions
+END
+InvalidDeviceTokenFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/359/trunk/src/javapns/devices/exceptions/InvalidDeviceTokenFormatException.java
+END
+NullIdException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/359/trunk/src/javapns/devices/exceptions/NullIdException.java
+END
+DuplicateDeviceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/359/trunk/src/javapns/devices/exceptions/DuplicateDeviceException.java
+END
+NullDeviceTokenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/359/trunk/src/javapns/devices/exceptions/NullDeviceTokenException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/369/trunk/src/javapns/devices/exceptions/package.html
+END
+UnknownDeviceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/359/trunk/src/javapns/devices/exceptions/UnknownDeviceException.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management
+END
+VPNPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/VPNPayload.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/package-summary.html
+END
+CalendarSubscriptionPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/CalendarSubscriptionPayload.html
+END
+APNPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/APNPayload.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/package-tree.html
+END
+LDAPPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/LDAPPayload.html
+END
+PasswordPolicyPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/PasswordPolicyPayload.html
+END
+WebClipPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/WebClipPayload.html
+END
+EmailPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/EmailPayload.html
+END
+RemovalPasswordPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/RemovalPasswordPayload.html
+END
+RestrictionsPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/RestrictionsPayload.html
+END
+SCEPPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/SCEPPayload.html
+END
+CalDAVPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/CalDAVPayload.html
+END
+MobileConfigPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/MobileConfigPayload.html
+END
+WiFiPayload.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/management/WiFiPayload.html
+END

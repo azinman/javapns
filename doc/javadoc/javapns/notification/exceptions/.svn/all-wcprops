@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/exceptions
+END
+PayloadMaxSizeExceededException.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/exceptions/PayloadMaxSizeExceededException.html
+END
+PayloadAlertAlreadyExistsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/exceptions/PayloadAlertAlreadyExistsException.html
+END
+PayloadIsEmptyException.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/exceptions/PayloadIsEmptyException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/exceptions/package-frame.html
+END
+ErrorResponsePacketReceivedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/exceptions/ErrorResponsePacketReceivedException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/exceptions/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/exceptions/package-tree.html
+END
+PayloadMaxSizeProbablyExceededException.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/notification/exceptions/PayloadMaxSizeProbablyExceededException.html
+END

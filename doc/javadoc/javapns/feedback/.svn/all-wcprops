@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/feedback
+END
+AppleFeedbackServer.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/feedback/AppleFeedbackServer.html
+END
+ConnectionToFeedbackServer.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/feedback/ConnectionToFeedbackServer.html
+END
+FeedbackServiceManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/feedback/FeedbackServiceManager.html
+END
+AppleFeedbackServerBasicImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/feedback/AppleFeedbackServerBasicImpl.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/feedback/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/feedback/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/379/trunk/doc/javadoc/javapns/feedback/package-tree.html
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/378/trunk/src/javapns/communication
+END
+KeystoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/340/trunk/src/javapns/communication/KeystoreManager.java
+END
+ServerTrustingTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/247/trunk/src/javapns/communication/ServerTrustingTrustManager.java
+END
+AppleServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/361/trunk/src/javapns/communication/AppleServer.java
+END
+WrappedKeystore.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/305/trunk/src/javapns/communication/WrappedKeystore.java
+END
+ConnectionToAppleServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/378/trunk/src/javapns/communication/ConnectionToAppleServer.java
+END
+AppleServerBasicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/361/trunk/src/javapns/communication/AppleServerBasicImpl.java
+END
+ProxyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/368/trunk/src/javapns/communication/ProxyManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/247/trunk/src/javapns/communication/package.html
+END
